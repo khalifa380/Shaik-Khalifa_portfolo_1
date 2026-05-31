@@ -139,16 +139,14 @@ Emeralds Degree College
 https://github.com/khalifa380
 
 ### LinkedIn
-
-Add your LinkedIn profile link here
+https://www.linkedin.com/in/khalifa-shaik-098a902aa/
 
 ### Email
-
-[shaikkhalifa689@gmail.com](mailto:shaikkhalifa689@gmail.com)
+(mailto:shaikkhalifa689@gmail.com)
 
 ### Phone
 
-+91 XXXXX XXXXX
++91 7989389450
 
 ## 🎯 Career Objective
 
@@ -161,7 +159,5 @@ Seeking opportunities in:
 * AI-powered Data Solutions
 
 where I can contribute to real-world data systems while continuously expanding my technical and analytical expertise.
-
----
 
 ⭐ If you found this portfolio interesting, feel free to connect with me or explore my projects.
